@@ -1,12 +1,12 @@
 {
-    "maxDisplayArticles" : 10,
+    "maxDisplayArticles": 10,
     "articledir": "./articles/",
     "articles": [
         {
             "file": "./articles/ethicsoftelepathy.html",
-            "atime": "2013-07-03T21:10:21.000Z",
-            "mtime": "2013-07-03T21:09:56.000Z",
-            "ctime": "2013-07-03T21:10:13.000Z"
+            "atime": "2013-07-04T18:44:59.000Z",
+            "mtime": "2013-07-04T18:44:59.000Z",
+            "ctime": "2013-07-04T18:44:59.000Z"
         }
     ]
 }
