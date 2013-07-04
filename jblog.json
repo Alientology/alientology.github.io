@@ -3,14 +3,8 @@
     "articledir": "./articles/",
     "articles": [
         {
-            "file": "./articles/hello.html",
+            "file": "./articles/ethicsoftelepathy.html",
             "atime": "2013-07-03T21:10:21.000Z",
-            "mtime": "2013-07-03T21:09:56.000Z",
-            "ctime": "2013-07-03T21:10:13.000Z"
-        },
-        {
-            "file": "./articles/world.html",
-            "atime": "2013-07-03T21:07:29.000Z",
             "mtime": "2013-07-03T21:09:56.000Z",
             "ctime": "2013-07-03T21:10:13.000Z"
         }
